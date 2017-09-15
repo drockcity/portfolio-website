@@ -1,0 +1,66 @@
+header{
+	background-color: #303f44;
+	background-repeat: no-repeat;
+	background-size: 100%;
+	margin-top: 50px; 
+	height: 500px;	
+}
+
+#intro{
+	text-align: center;
+	padding-top: 100px;
+	color: #ffffff;
+}
+
+#intro h1{
+	font-size: 50px; 
+}
+
+#intro h3{
+	font-size: 35px;
+}
+
+#intro img{
+	height: 200px;
+	border-radius: 50%;
+	border: 4px solid #ffffff;
+}
+
+.txtCenter{
+	text-align: center;
+}
+
+.btnCenter{
+	margin: 0 0 0 80px;
+}
+
+.title{
+	text-align: center;
+	margin: 50px 0; 
+}
+
+.soc{
+	margin: 0 25px;
+}
+
+#socOne{
+	margin-right: 40px;
+}
+
+footer{
+	background-color: #337ab7;
+	padding: 50px;
+	color: #ffffff;
+}
+
+#txtRight{
+	text-align: right;
+}
+
+#bottom{
+	margin-bottom: 50px; 
+}
+
+.ft{
+	margin: 0 0 0 10px;
+}
